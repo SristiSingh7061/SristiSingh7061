@@ -61,11 +61,6 @@
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SristiSingh7061&show_icons=true&theme=tokyonight"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SristiSingh7061&theme=tokyonight"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SristiSingh7061&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -77,7 +72,7 @@
 https://www.linkedin.com/in/sristi-singh-601944301
 
 📧 Email:
-your-email@gmail.com
+sristisingh900@gmail.com
 
 ---
 
