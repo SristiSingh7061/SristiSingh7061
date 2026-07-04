@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm Sristi Singh</h1>
 <p align="center">
-  <img src="WhatsApp Image 2026-07-04 at 12.12.24 PM.jpeg" width="100%" alt="Banner">
+  <img src="WhatsApp Image 2026-07-04 at 12.12.24 PM.jpeg" width="100%" height="180">
 </p>
 <h3 align="center">
 💻 B.Sc CA Student | Aspiring Full Stack Developer | Frontend Enthusiast
