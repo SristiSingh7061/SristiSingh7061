@@ -53,7 +53,7 @@
 
 ✨ MongoDB
 
-✨ Full Stack Development
+✨Data structure & Alogorithm
 
 ---
 
