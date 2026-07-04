@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Sristi Singh</h1>
+<p align="center">
+  <img src="![Uploading WhatsApp Image 2026-07-04 at 12.12.24 PM.jpeg…]()
+K" width="100%" alt="Banner">
+</p>
 
+<h1 align="center">Hi 👋, I'm Sristi Singh</h1>
 <h3 align="center">
 💻 B.Sc CA Student | Aspiring Full Stack Developer | Frontend Enthusiast
 </h3>
@@ -23,7 +28,7 @@
 
 ### Languages
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,c,cpp,python" />
+<img src="https://skillicons.dev/icons?i=html,css,js,c,c++" />
 </p>
 
 ### Frontend
