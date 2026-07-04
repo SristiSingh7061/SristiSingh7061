@@ -1,8 +1,5 @@
-<h1 align="center">Hi 👋, I'm Sristi Singh</h1>
-<p align="center">
-  <img src="![Uploading WhatsApp Image 2026-07-04 at 12.12.24 PM.jpeg…]()
-K" width="100%" alt="Banner">
-</p>
+
+
 
 <h1 align="center">Hi 👋, I'm Sristi Singh</h1>
 <h3 align="center">
