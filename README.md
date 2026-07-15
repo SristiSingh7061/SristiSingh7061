@@ -33,12 +33,12 @@
 
 ### Frontend
 <p>
-<img src="https://skillicons.dev/icons?i=bootstrap,tailwind,react" />
+<img src="https://skillicons.dev/icons?i=react" />
 </p>
 
 ### Backend (Learning)
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
+<img src="https://skillicons.dev/icons?i=nodejs,mysql" />
 </p>
 
 ### Tools
